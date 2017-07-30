@@ -1,0 +1,13 @@
+{
+	"typeList" : [
+		{"type" : "radiot" , "name" : "单选"}, 
+		{"type" : "checkboxt" , "name" : "多选"}, 
+		{"type" : "textareat" , "name" : "多行文本"},
+		{"type" : "selectt" , "name" : "下拉选择"},
+		{"type" : "datet" , "name" : "日期框"},
+		{"type" : "slidert" , "name" : "滑块"},
+		{"type" : "ratet" , "name" : "评价"}
+
+
+	]
+}
